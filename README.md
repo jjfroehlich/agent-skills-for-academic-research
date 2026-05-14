@@ -42,7 +42,7 @@ For Codex-style skill loading, each skill folder can be installed independently.
 
 ## Notes
 
-- The skills are built in a private workbench based on public resources and private notes from the author, then manually refined.
+- The skills are crafted in a private workbench based on public resources and private notes from the author.
 - These skills provide workflow guidance, review structure, and writing or design heuristics. They do not replace expert scientific, statistical, legal, medical, safety, or funding-agency review.
 - For data visualization, inspect the actual figure before making exact layout, palette, microscopy/image-quality, or graphical-abstract composition claims.
 - For publishing, grants, and journal formatting, check current venue or funder instructions before relying on any technical requirement.
