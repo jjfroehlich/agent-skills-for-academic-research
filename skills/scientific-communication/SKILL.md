@@ -1,6 +1,10 @@
 ---
 name: scientific-communication
-description: Design, review, or rehearse scientific talks, slide decks, posters, chalk talks, elevator pitches, research stories, audience explanations, and Q&A plans when the user provides a draft, outline, slide/poster description, venue, audience, timing, or presentation constraint.
+description: Use this skill when the user needs to design, review, adapt, or rehearse scientific talks, slide decks, posters, chalk talks, elevator pitches, research stories, audience explanations, delivery plans, or Q&A preparation from a draft, outline, venue, audience, timing, or presentation constraint.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Scientific Communication

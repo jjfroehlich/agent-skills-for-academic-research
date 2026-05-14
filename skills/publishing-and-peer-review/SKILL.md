@@ -1,6 +1,10 @@
 ---
 name: publishing-and-peer-review
-description: Use for journal submission packages, cover letters, editor inquiries, peer-review reports, reviewer ethics, editorial decision interpretation, resubmission plans, and response-to-reviewers letters in life-science publishing workflows.
+description: Use this skill for journal submission packages, cover letters, editor inquiries, peer-review reports, reviewer ethics, editorial decision interpretation, appeals, resubmission plans, and response-to-reviewers letters in life-science or scientific publishing workflows.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Publishing And Peer Review

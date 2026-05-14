@@ -1,8 +1,6 @@
 # Agent Skills for Scientific Work
 
-This repository contains reusable agent skills for scientific work, with an emphasis on life-science research workflows. Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples.
-
-The skills are exported from a private workbench after provenance sanitization. Public skill files do not include private source notes, bibliographies, citation maps, raw source URLs, or workbench-only resource metadata.
+This is currently experimental. Agent skills for scientific work, with an emphasis on life-science research workflows. The skills are built in a private workbench based on public resources and private notes.
 
 ## Skills
 
@@ -21,6 +19,8 @@ The skills are exported from a private workbench after provenance sanitization. 
 
 ## Repository Layout
 
+Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples. `SKILL.md` is the entry point. It defines when the skill should trigger, how the agent should work, which reference files to open, and what output formats to use. Reference files are playbooks. Checklists and examples support common review and drafting tasks.
+
 ```text
 skills/
   <skill-name>/
@@ -29,8 +29,6 @@ skills/
     checklists/
     examples/
 ```
-
-`SKILL.md` is the entry point. It defines when the skill should trigger, how the agent should work, which reference files to open, and what output formats to use. Reference files are playbooks. Checklists and examples support common review and drafting tasks.
 
 ## Use
 
@@ -46,4 +44,4 @@ For Codex-style skill loading, each skill folder can be installed independently.
 
 ## License
 
-No license has been declared yet.
+MIT

@@ -1,6 +1,10 @@
 ---
 name: scientific-feedback
-description: Orchestrate constructive, prioritized feedback on scientific manuscripts, papers, preprints, figures, slide decks, posters, grants, proposals, research plans, paper notes, mentoring documents, and lab artifacts when the user asks to review, critique, sanity-check, improve, or prepare a larger scientific artifact using multiple specialist lenses.
+description: Use this skill when the user asks to review, critique, sanity-check, improve, or prepare a larger scientific artifact such as a manuscript, paper, preprint, figure set, slide deck, poster, grant, proposal, research plan, paper notes, mentoring document, or lab artifact and needs constructive prioritized feedback across multiple specialist lenses.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Scientific Feedback

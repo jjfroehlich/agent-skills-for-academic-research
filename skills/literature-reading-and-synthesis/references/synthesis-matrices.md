@@ -18,17 +18,17 @@ Turn paper notes into comparable, reusable rows. A synthesis matrix should keep 
 1. Define the comparison goal: methods, claims, field positions, evidence strength, or project relevance.
 2. Choose row units: one paper, one method, one figure, one claim, or one source stream item.
 3. Add core columns:
- - paper
- - reading goal
- - article type
- - question or motivation
- - approach or method
- - key result or figure
- - author interpretation
- - limitations or alternatives
- - next steps
- - relationship to other sources
- - impact on current project
+   - paper
+   - reading goal
+   - article type
+   - question or motivation
+   - approach or method
+   - key result or figure
+   - author interpretation
+   - limitations or alternatives
+   - next steps
+   - relationship to other sources
+   - impact on current project
 4. Add tracking context when useful: source/feed, field layer, query/topic, and action taken.
 5. End each row with a build-on-it note.
 

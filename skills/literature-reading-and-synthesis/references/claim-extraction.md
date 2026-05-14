@@ -17,12 +17,12 @@ Turn reading into structured evidence review. Do not produce a generic summary. 
 
 1. Name the evidence unit: whole paper, figure, table, experiment, or section.
 2. Ask six questions:
- - Why was this done?
- - What was done?
- - Why was it done that way?
- - What was found?
- - What do the authors think it means?
- - What should happen next?
+   - Why was this done?
+   - What was done?
+   - Why was it done that way?
+   - What was found?
+   - What do the authors think it means?
+   - What should happen next?
 3. For each major claim, record the supporting evidence object.
 4. Separate results from interpretation.
 5. Check alternative explanations, bias, limitations, confounders, and generalizability.

@@ -18,17 +18,17 @@ Match reading depth to the user's goal and article type. A paper for tomorrow's 
 
 1. Name the goal: orient, present, decide, compare, track, or synthesize.
 2. Pick depth:
- - **Triage:** title, abstract, figures, relevance, save/ignore decision.
- - **Targeted read:** focus on sections needed for the goal.
- - **Evidence read:** unpack claims, figures, methods, and limitations.
- - **Deep read:** add citation follow-up, supplemental checks, and discussion prep.
+   - **Triage:** title, abstract, figures, relevance, save/ignore decision.
+   - **Targeted read:** focus on sections needed for the goal.
+   - **Evidence read:** unpack claims, figures, methods, and limitations.
+   - **Deep read:** add citation follow-up, supplemental checks, and discussion prep.
 3. Classify article type: primary research, review, methods paper, resource paper, or commentary.
 4. Use section intent:
- - Introduction: problem, motivation, field gap.
- - Methods: design, reproducibility, assumptions.
- - Results/figures: evidence.
- - Discussion: interpretation, limitations, future work.
- - References/supplement: follow-up trail.
+   - Introduction: problem, motivation, field gap.
+   - Methods: design, reproducibility, assumptions.
+   - Results/figures: evidence.
+   - Discussion: interpretation, limitations, future work.
+   - References/supplement: follow-up trail.
 5. Extract claims and evidence with the six-question scaffold.
 6. End with a synthesis action: add to matrix, follow citation, update field map, or mark as background.
 

@@ -17,11 +17,11 @@ Build a sustainable literature-tracking system. The goal is not maximum coverage
 
 1. Define the tracking goal: broad field awareness, narrow topic, method/tool updates, author/lab tracking, or review-oriented orientation.
 2. Create a small source portfolio with distinct roles:
- - database/topic feeds for relevance
- - journal or venue feeds for field awareness
- - author/lab alerts for known groups
- - review sources for orientation
- - informal channels only as discovery leads to verify
+   - database/topic feeds for relevance
+   - journal or venue feeds for field awareness
+   - author/lab alerts for known groups
+   - review sources for orientation
+   - informal channels only as discovery leads to verify
 3. Estimate weekly volume before adding a source.
 4. Define triage actions: ignore, save, skim, deep read, follow citation trail, or add to synthesis.
 5. Scan weekly and keep a curated backlog.

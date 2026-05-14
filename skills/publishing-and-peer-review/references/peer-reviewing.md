@@ -65,9 +65,9 @@ Summary
 
 Major comments
 1. Concern: [issue]
- Evidence: [where it appears]
- Consequence: [why it affects validity, interpretation, or fit]
- Requested action: [bounded revision, analysis, claim limit, or clarification]
+   Evidence: [where it appears]
+   Consequence: [why it affects validity, interpretation, or fit]
+   Requested action: [bounded revision, analysis, claim limit, or clarification]
 
 Minor comments
 - [clarity, figure, terminology, or presentation issue]

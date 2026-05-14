@@ -1,6 +1,10 @@
 ---
 name: grant-writing
 description: Use when the user asks for help planning, drafting, revising, or reviewing grant proposals, fellowship applications, specific aims, significance/innovation/approach sections, project summaries, budgets, feasibility claims, risk plans, or reviewer-facing funding narratives.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Grant Writing

@@ -1,6 +1,10 @@
 ---
 name: research-strategy-and-project-design
-description: Choose research problems, triage project ideas, generate hypotheses, compare experiment strategies, and set risk or kill criteria from candidate questions, preliminary results, project portfolios, or stuck research plans.
+description: Use this skill when the user needs to choose research problems, triage project ideas, generate hypotheses, compare experiment strategies, define risk or kill criteria, sharpen novelty and feasibility, or recover a stuck research plan from candidate questions, preliminary results, or project portfolios.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Research Strategy And Project Design

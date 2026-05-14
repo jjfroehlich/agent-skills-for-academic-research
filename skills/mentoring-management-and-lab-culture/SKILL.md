@@ -1,6 +1,10 @@
 ---
 name: mentoring-management-and-lab-culture
-description: Use when the user needs help with research-group mentoring, lab handbooks, onboarding, PI leadership systems, lab health, IDP meetings, feedback scripts, conflict diagnosis, or culture repair in a scientific lab.
+description: Use this skill when the user needs help with research-group mentoring, lab handbooks, onboarding, PI or lab leadership systems, lab health, IDP meetings, feedback scripts, conflict diagnosis, expectation setting, power dynamics, or culture repair in a scientific lab.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Mentoring Management And Lab Culture

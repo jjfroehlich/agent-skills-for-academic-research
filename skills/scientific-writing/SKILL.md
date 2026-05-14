@@ -1,6 +1,10 @@
 ---
 name: scientific-writing
 description: Use when a user provides scientific manuscript, thesis, abstract, introduction, results, discussion, figure legend, contribution, acknowledgement, section outline, or reviewer-facing prose and asks for drafting, diagnosis, rewriting, compression, flow, claim calibration, section structure, or publication-ready scientific wording.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Scientific Writing
@@ -27,9 +31,9 @@ Help draft, diagnose, and revise scientific writing so the reader can see the cl
 1. Identify the artifact type, target audience, venue constraints, user goal, central claim or question, evidence boundary, and requested output. If context is missing, state assumptions and ask only the minimum needed question.
 2. Diagnose the section job before editing sentences: name the intended rhetorical move, the reader confusion, paragraph job, and highest-leverage structural fix.
 3. Decide the intervention level before rewriting:
- - Structure: missing claim, wrong section job, chronology instead of reader logic, overloaded paragraph, or weak transition.
- - Rhetoric: missing gap, result, implication, limitation, comparison, or contribution.
- - Sentence: hidden actor, noun stack, vague verb, unstable term, overlong modifier chain, or overclaim.
+   - Structure: missing claim, wrong section job, chronology instead of reader logic, overloaded paragraph, or weak transition.
+   - Rhetoric: missing gap, result, implication, limitation, comparison, or contribution.
+   - Sentence: hidden actor, noun stack, vague verb, unstable term, overlong modifier chain, or overclaim.
 4. For manuscripts and thesis chapters, trace the evidence spine: question or hypothesis, prediction or task, figure/table, finding, local conclusion, limitation, and final implication.
 5. Route to the relevant reference playbook and checklist before rewriting.
 6. Preserve meaning, uncertainty, statistical direction, actor, scope, caveats, and terminology while tightening language.

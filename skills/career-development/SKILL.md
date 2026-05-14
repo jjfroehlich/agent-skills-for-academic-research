@@ -1,6 +1,10 @@
 ---
 name: career-development
-description: Advises scientists on advisor or lab choice, PhD and postdoc applications, faculty searches, CVs, resumes, cover letters, interviews, offer negotiation, and academic-to-industry career transitions when the user provides career materials, job ads, offers, or a concrete career decision.
+description: Use this skill when a scientist needs advisor or lab choice, PhD/postdoc/faculty application strategy, CV or resume review, cover letters, interviews, offer negotiation, academic-to-industry transitions, job ad interpretation, or another concrete career decision.
+license: MIT
+metadata:
+  author: jjfroehlich
+  version: "0.1.0"
 ---
 
 # Career Development
