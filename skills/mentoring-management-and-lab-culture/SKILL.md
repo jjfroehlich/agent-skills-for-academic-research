@@ -1,10 +1,10 @@
 ---
 name: mentoring-management-and-lab-culture
-description: Use this skill when the user needs help with research-group mentoring, lab handbooks, onboarding, PI or lab leadership systems, lab health, IDP meetings, feedback scripts, conflict diagnosis, expectation setting, power dynamics, or culture repair in a scientific lab.
+description: "Use this skill when the user needs research-group mentoring, lab-management, or lab-culture help that turns expectations into concrete systems, documents, routines, scripts, or escalation paths. Trigger on lab handbooks, onboarding, mentoring compacts, IDP meetings, feedback scripts, authorship or credit norms, conflict diagnosis, performance concerns, PI/lab leadership systems, power dynamics, belonging, work-life boundaries, and culture repair in scientific labs. Do not trigger for personal career decisions, research-project strategy, manuscript/grant work, or legal/clinical determinations."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Mentoring Management And Lab Culture

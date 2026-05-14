@@ -1,10 +1,10 @@
 ---
 name: grant-writing
-description: Use when the user asks for help planning, drafting, revising, or reviewing grant proposals, fellowship applications, specific aims, significance/innovation/approach sections, project summaries, budgets, feasibility claims, risk plans, or reviewer-facing funding narratives.
+description: "Use when the user is planning, drafting, revising, or reviewing a grant or fellowship application, including specific aims, project summaries, significance/innovation/approach sections, funder-fit checks, budget-feasibility alignment, risk/alternative plans, resubmissions, interviews, or reviewer-facing funding narratives. Trigger only when the artifact or decision is part of a funding mechanism; for manuscript peer review, journal submission, general prose editing, or career materials without a funding context, use a different skill."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Grant Writing

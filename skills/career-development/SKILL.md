@@ -1,10 +1,10 @@
 ---
 name: career-development
-description: Use this skill when a scientist needs advisor or lab choice, PhD/postdoc/faculty application strategy, CV or resume review, cover letters, interviews, offer negotiation, academic-to-industry transitions, job ad interpretation, or another concrete career decision.
+description: "Use this skill when a scientist needs stage-specific career help with advisor or lab choice, PhD/postdoc/faculty applications, CVs, resumes, cover letters, interviews, offers, startup negotiation, academia-to-industry transitions, job ad interpretation, networking, or a concrete career-path decision. Trigger when the input is a career artifact, opportunity, role comparison, application package, or personal career constraint. Do not trigger for manuscript, grant, figure, project-strategy, journal-selection, or lab-management tasks unless the main issue is the user's own career decision."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Career Development

@@ -1,10 +1,10 @@
 ---
 name: scientific-feedback
-description: Use this skill when the user asks to review, critique, sanity-check, improve, or prepare a larger scientific artifact such as a manuscript, paper, preprint, figure set, slide deck, poster, grant, proposal, research plan, paper notes, mentoring document, or lab artifact and needs constructive prioritized feedback across multiple specialist lenses.
+description: 'Use this skill when a scientist asks for holistic or prioritized feedback, critique, review, readiness check, or look-over judgment on their scientific artifact: manuscript, draft, paper, preprint, thesis chapter, presentation, slides, poster, grant proposal or outline, research plan, project pitch, collaborator update, paper notes used to support a decision, mentoring document, or lab artifact. Trigger even when phrased as what should I fix first, where will reviewers push back, or does this hang together. Prefer narrower skills for isolated rewrites, single-lens figure or chart work, reviewer-response drafting, literature summaries, project-choice analysis without an artifact, code or statistics debugging, clinical/legal determinations, and non-scientific application documents.'
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.2"
 ---
 
 # Scientific Feedback

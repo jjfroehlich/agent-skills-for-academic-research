@@ -1,10 +1,10 @@
 ---
 name: scientific-writing
-description: Use when a user provides scientific manuscript, thesis, abstract, introduction, results, discussion, figure legend, contribution, acknowledgement, section outline, or reviewer-facing prose and asks for drafting, diagnosis, rewriting, compression, flow, claim calibration, section structure, or publication-ready scientific wording.
+description: "Use when the user provides or describes scientific prose for a manuscript, thesis, abstract, introduction, results, discussion, conclusion, figure legend text, contribution statement, acknowledgement, paper outline, or reviewer-facing wording and wants drafting, diagnosis, rewriting, compression, section structure, flow, claim calibration, or publication-ready language. Prefer other skills when the main task is journal choice, reviewer response strategy, grant aims, literature synthesis, slide/poster design, or figure/chart redesign rather than prose."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Scientific Writing

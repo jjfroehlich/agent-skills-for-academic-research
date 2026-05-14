@@ -1,10 +1,10 @@
 ---
 name: literature-reading-and-synthesis
-description: Use this skill when the user brings papers, figures, reading goals, alert queues, related-literature notes, or a pile of references and needs active paper reading, claim extraction, evidence comparison, literature tracking, synthesis matrices, or a reusable reading workflow rather than a one-off summary.
+description: "Use when the user brings scientific papers, figures, tables, reading goals, alert queues, related-literature notes, or reference piles and needs active reading strategy, claim/evidence extraction, figure unpacking, comparison across papers, literature tracking, synthesis matrices, reusable notes, or journal-club/project-decision readiness. Trigger when the user needs a reading or synthesis workflow, not for a simple one-paper summary, citation formatting, citation-manager mechanics, literature search alone, manuscript drafting, grant writing, peer review, or slide design."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Literature Reading And Synthesis

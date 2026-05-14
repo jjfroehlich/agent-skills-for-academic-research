@@ -1,10 +1,10 @@
 ---
 name: publishing-and-peer-review
-description: Use this skill for journal submission packages, cover letters, editor inquiries, peer-review reports, reviewer ethics, editorial decision interpretation, appeals, resubmission plans, and response-to-reviewers letters in life-science or scientific publishing workflows.
+description: "Use when the user is acting as an author, reviewer, or editor-facing correspondent in a scientific publication process and needs help with journal submission packages, cover letters, presubmission or editor inquiries, peer-review reports, reviewer ethics, conflicts, confidentiality, editorial decision interpretation, appeals, transfers, resubmission strategy, or response-to-reviewers letters. Trigger on concrete publication-process decisions or artifacts, not on general manuscript prose editing, figure design, grant review, literature summaries, or journal-ranking curiosity without an active submission/review context."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Publishing And Peer Review

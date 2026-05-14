@@ -1,10 +1,10 @@
 ---
 name: research-strategy-and-project-design
-description: Use this skill when the user needs to choose research problems, triage project ideas, generate hypotheses, compare experiment strategies, define risk or kill criteria, sharpen novelty and feasibility, or recover a stuck research plan from candidate questions, preliminary results, or project portfolios.
+description: "Use this skill when a scientist is deciding what research question, project, hypothesis, experiment strategy, or portfolio bet to pursue, pause, pivot, or stop. Trigger on candidate project ideas, stuck research directions, unexpected observations, novelty/feasibility tradeoffs, decisive uncertainty, cheap de-risking tests, kill criteria, and stop/go decisions. Do not trigger for protocol details, statistical implementation, manuscript polishing, grant packaging, figure design, journal choice, or people-management issues unless the main need is project strategy."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Research Strategy And Project Design

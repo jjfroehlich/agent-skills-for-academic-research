@@ -1,10 +1,10 @@
 ---
 name: data-visualization-and-figures
-description: Use this skill when the user needs to review, redesign, or plan scientific plots, tables, heatmaps, microscopy/image panels, multi-panel figures, graphical abstracts, legends, posters, slides, or manuscript figures, especially for chart choice, uncertainty display, color accessibility, annotations, layout, typography, or publication readiness.
+description: "Use when the user needs to choose, critique, redesign, or prepare scientific visual evidence: plots, charts, tables, heatmaps, microscopy/image panels, multi-panel figures, graphical abstracts, schematics, manuscript figures, poster/slide figures, or publication exports. Trigger for chart choice, uncertainty and replicate display, effect sizes, color accessibility, annotations, labels, layout, typography, image scale/channels, or final-size/readiness checks. Prefer writing for prose-only legends, communication for talk/poster story and delivery, and coding help for plotting-library syntax or debugging."
 license: MIT
 metadata:
   author: jjfroehlich
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Data Visualization And Figures
