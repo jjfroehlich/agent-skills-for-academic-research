@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/agent-skills-for-scientific-work_banner.jpg" width="900" alt="Title banner" />
+</p>
+
 # Agent Skills for Scientific Work
 
 Experimental agent skills for scientific work, with an emphasis on life-science research workflows. 
