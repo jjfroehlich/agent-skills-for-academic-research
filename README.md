@@ -4,7 +4,7 @@
 
 # Agent Skills for Scientific Work
 
-Experimental, agent skills for scientific work, with an emphasis on life-science research workflows. These skills are meant to improve AI agents skills by giving it topic-specific guidance. 
+Experimental, agent skills for scientific work, with an emphasis on life-science research workflows. These skills are meant to improve AI agents by giving it topic-specific guidance. 
 
 ## Skills
 
@@ -53,12 +53,9 @@ Use scientific-feedback to give an integrated reviewer-style pass on this manusc
 ```
 
 ## Limitations
-- The skills were built in a private workbench based on public resources and private notes from the author.
 - These skills are experimental and I am unsure if they are useful, useless or even harmful, please get in contact if you have feedback.
-- These skills do not replace expert scientific, statistical, legal, medical, safety, or funding-agency review.
-- For data visualization, inspect the actual figure before making exact layout, palette, microscopy/image-quality, or graphical-abstract composition claims.
-- For publishing, grants, and journal formatting, check current venue or funder instructions before relying on any technical requirement.
-- For career, mentoring, and lab-culture questions, adapt advice to local institutional policies, relationships, and power dynamics.
+- Skills were built in a private workbench based on public resources and private notes.
+- Do not replace expert scientific, statistical, legal, medical, safety, or funding-agency review.
 
 ## License
 
