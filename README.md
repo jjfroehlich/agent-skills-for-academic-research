@@ -23,19 +23,12 @@ Experimental, agent skills for academic research workflows. These skills are mea
 
 ## How to Install
 
-Give your agent the repository link and tell it to install the skills. Or alternatively, copy one or more folders from `skills/` into your agent's skill directory. The skills are designed to be portable across different agent systems.
+Give your agent the repository link and tell it to install it. For example `Please install the skills at https://github.com/jjfroehlich/agent-skills-for-academic-research`. Alternatively, copy one or more folders from `skills/` into your agent's skill directory. Skills are portable across different agent systems.
 
 ## How to Use 
 
 The skills should be triggered automatically in the right conditions. 
-
-For testing you can also ask for the relevant task naturally, for example:
-
-```text
-Use scientific-writing to tighten this abstract while preserving the evidence boundary.
-Use data-visualization-and-figures to critique this heatmap and final-size figure layout.
-Use scientific-feedback to give an integrated reviewer-style pass on this manuscript and figure set.
-```
+Just ask for advice on anything that is related to the above topics.
 
 ## Limitations
 - These skills are experimental and I am unsure if they are useful, useless or even harmful. 
