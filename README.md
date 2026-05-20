@@ -21,21 +21,6 @@ Experimental, agent skills for academic research workflows. These skills are mea
 | `scientific-feedback` | Orchestrated feedback across manuscripts, figures, slides, posters, grants, research plans, paper notes, mentoring documents, and lab artifacts. |
 | `scientific-writing` | Manuscripts, thesis sections, abstracts, introductions, results, discussions, figure legends, section flow, claim calibration, and publication-ready prose. |
 
-## Repository Layout
-
-Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples. 
-
-```text
-skills/
-  <skill-name>/
-    SKILL.md
-    references/
-    checklists/
-    examples/
-```
-
-`SKILL.md` defines when the skill should trigger, how the agent should work, which reference files to open, and what output formats to use. Reference files are playbooks. Checklists and examples support common review, drafting, planning, and critique tasks.
-
 ## How to Install
 
 Give your agent the repository link and tell it to install the skills. Or alternatively, copy one or more folders from `skills/` into your agent's skill directory. The skills are designed to be portable across different agent systems.
@@ -56,6 +41,21 @@ Use scientific-feedback to give an integrated reviewer-style pass on this manusc
 - These skills are experimental and I am unsure if they are useful, useless or even harmful, please get in contact if you have feedback!
 - Skills were built in a private workbench based on public resources and private notes.
 - Do not replace expert scientific, statistical, legal, medical, safety, or funding-agency review.
+
+## Repository Layout
+
+Each skill is a self-contained folder with a `SKILL.md` entry point plus supporting references, checklists, and examples. 
+
+```text
+skills/
+  <skill-name>/
+    SKILL.md
+    references/
+    checklists/
+    examples/
+```
+
+`SKILL.md` defines when the skill should trigger, how the agent should work, which reference files to open, and what output formats to use. Reference files are playbooks. Checklists and examples support common review, drafting, planning, and critique tasks.
 
 ## License
 
