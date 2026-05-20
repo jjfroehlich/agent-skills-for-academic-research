@@ -28,7 +28,8 @@ Give your agent the repository link and tell it to install it. For example `Plea
 ## How to Use 
 
 The skills should be triggered automatically in the right conditions. 
-Just ask for advice on anything that is related to the above topics.
+Just ask for advice on anything related to the above topics.
+For testing, try with and without skills. 
 
 ## Limitations
 - These skills are experimental and I am unsure if they are useful, useless or even harmful. 
