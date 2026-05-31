@@ -6,6 +6,7 @@
 
 Experimental, agent skills for academic research workflows. These skills are meant to improve AI agents by giving topic-specific guidance. Completely experimental and untested. Please get in contact if you have feedback.
 
+The current version is built from 290 public- and personal resources and notes. A separate agentic pipeline extracts principles, normalizes them into rules, and synthesizes the final skill format. This project is inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources), a curated collection of public resources on life-science training, writing, mentoring, publishing, visualization, and careers.
 
 ## Skills
 
@@ -32,13 +33,10 @@ The skills should be triggered automatically in the right conditions.
 Just ask for advice on anything related to the above topics.
 For testing, try with and without skills. 
 
-## How The Skills Were Built
-
-The current version is built from 290 public- and personal resources and notes. An agentic pipeline extracts principles from source material, normalizes them into rules, and synthesizes the final skill format. This project is inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources), a curated collection of public resources on life-science training, writing, mentoring, publishing, visualization, and careers.
 
 ## Related Work
 
-There are other agent skills for scientific work; many focus on computational biology or bioinformatics, including [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills), others cover scientific writing and research workflows such as [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main), [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), and [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research).
+There are other agent skills for scientific work; many focus on computational biology or bioinformatics, including [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), [Google Deepmind science-skills](https://github.com/google-deepmind/science-skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills), others cover scientific writing and research workflows such as [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main), [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), and [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research).
 
 
 ## Limitations
