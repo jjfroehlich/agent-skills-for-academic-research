@@ -4,9 +4,7 @@
 
 # Agent Skills for Academic Research
 
-Experimental, agent skills for academic research workflows. These skills are meant to improve AI agents by giving topic-specific guidance. Completely experimental and untested. Please get in contact if you have feedback.
-
-The current version is built from 290 public- and personal resources and notes. A separate agentic pipeline extracts principles, normalizes them into rules, and synthesizes the final skill format. This project is inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources), a curated collection of public resources on life-science training, writing, mentoring, publishing, visualization, and careers.
+Experimental, agent skills for academic research workflows distilled from >290 human-curated resources. 
 
 ## Skills
 
@@ -23,6 +21,8 @@ The current version is built from 290 public- and personal resources and notes. 
 | `scientific-feedback` | Orchestrated feedback across manuscripts, figures, slides, posters, grants, research plans, paper notes, mentoring documents, and lab artifacts. |
 | `scientific-writing` | Manuscripts, thesis sections, abstracts, introductions, results, discussions, figure legends, section flow, claim calibration, and publication-ready prose. |
 
+The current version is built from 290 public- and personal resources and notes. A private pipeline extracts principles, normalizes them into rules, and synthesizes the final skill format. This project is inspired by [awesome-life-science-resources](https://github.com/jjfroehlich/awesome-life-science-resources), a curated collection of public resources on life-science training, writing, mentoring, publishing, visualization, and careers.
+
 ## How to Install
 
 Give your agent the repository link and tell it to install it. For example `Please install the skills at https://github.com/jjfroehlich/agent-skills-for-academic-research`. Alternatively, copy one or more folders from `skills/` into your agent's skill directory. Skills are portable across different agent systems.
@@ -36,7 +36,7 @@ For testing, try with and without skills.
 
 ## Related Work
 
-There are other agent skills for scientific work; many focus on computational biology or bioinformatics, including [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), [Google Deepmind science-skills](https://github.com/google-deepmind/science-skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills), others cover scientific writing and research workflows such as [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main), [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), and [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research).
+There are other agent skills for scientific work; many focus on computational biology or bioinformatics: [GPTomics bioSkills](https://github.com/GPTomics/bioSkills), [ClawBio skills](https://github.com/ClawBio/ClawBio/tree/main/skills), [Google Deepmind science-skills](https://github.com/google-deepmind/science-skills), and [K-Dense-AI scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills). But others cover scientific writing and research workflows: [K-Dense-AI scientific writer](https://github.com/K-Dense-AI/claude-scientific-writer/tree/main), [Imbad0202 academic research skills](https://github.com/Imbad0202/academic-research-skills), [K-Dense-AI science-superpowers](https://github.com/K-Dense-AI/science-superpowers), and [John Kitchin research skills](https://github.com/jkitchin/skillz/tree/main/skills/research). The advantage of the skills here might be their grounding in a corpus of >290 human-curated resources.
 
 
 ## Limitations
@@ -44,6 +44,11 @@ There are other agent skills for scientific work; many focus on computational bi
 - These skills are experimental and I am unsure if they are useful, useless or even harmful. 
 - The extraction and synthesis process can miss context or overgeneralize from the source material.
 - Cannot replace advice from human experts or organizations.
+
+
+## Support
+
+- Please get in touch if you have feedback or want to contribute.
 
 
 ## Repository Layout
